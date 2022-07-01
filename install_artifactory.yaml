@@ -1,0 +1,11 @@
+databaseUpgradeReady: true
+artifactory:
+  joinKey: eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+  masterKey: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+postgresql:
+  enabled: true
+  postgresqlPassword: password
+mc:
+  enabled: true
+nginx:
+  enabled: true
